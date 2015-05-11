@@ -1,6 +1,8 @@
 go 缺陷和陷阱
 =====================
 
+[语法陷阱](grama.md)
+
 [类型系统](type.md)
 
 [goroutine](goroutine.md)
