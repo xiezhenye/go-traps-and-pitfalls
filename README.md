@@ -12,3 +12,5 @@ go 缺陷和陷阱
 [内存管理](memory.md)
 
 [包管理](package.md)
+
+[内置类型](builtin.md)
