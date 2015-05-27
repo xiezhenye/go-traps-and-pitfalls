@@ -15,3 +15,4 @@
 
 interface 没有默认实现，也不能为 interface 类型添加方法
 
+不能实现多个有相同函数签名的 interface
